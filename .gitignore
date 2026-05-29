@@ -4,3 +4,5 @@
 !outputs/**
 !images/
 !images/**
+!infer_batch.py
+!inference.py
