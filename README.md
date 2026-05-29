@@ -16,8 +16,4 @@ This repository is intended for research and development purposes, including OCR
 ## Notes
 
 - The mapping between images and extracted text is consistent via filename alignment.
-- Text outputs may contain OCR errors depending on image quality and complexity.
-
-## License
-
-Specify your license here if applicable.
+- Text outputs may contain OCR errors depending on image quality and complexity
