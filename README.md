@@ -6,7 +6,9 @@ This repository contains images and their corresponding text extracted using **C
 
 - `images/` — Source images processed by the OCR system
 - `outputs/` — Extracted text outputs corresponding to each image
-
+- 'infere_batch.py' - Batch inference scripts
+- 'inference.py' - Performing inference on single sample image
+  
 ## Description
 
 The dataset was generated using ChandraOCR, an OCR pipeline designed to extract structured text from images. Each image in the dataset has a corresponding text file containing the recognized content.
